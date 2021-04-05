@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+}
+.container-fluid{
+	padding: 0;
+}
+ul li a{
+	text-transform: capitalize;
+	font-size: 1rem;
+	margin: 5px 5px 0px 5px;
+
+}
+.boisakh{
+	font-size: 1.15rem;
+}
+.navbar-nav .active>.nav-link:hover{
+	color: #000000;
+}
+.about{
+	background: #007780;
+	overflow: hidden;
+}
+.services{
+	/*background: #2dd076;*/
+	overflow: hidden;
+}
+.contact{
+	background: #2dd076;
+	overflow: hidden;
+}
+.map{
+	overflow: hidden;
+
+}
+.footer-p{
+	text-align: center;
+	background: #2de880;
+	overflow: hidden;
+	letter-spacing: 2px;
+	line-height: 50px;
+}
+.form-btn{
+	text-align: right;
+}
+
